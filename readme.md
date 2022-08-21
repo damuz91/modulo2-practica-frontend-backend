@@ -10,8 +10,8 @@ Se quiere demostrar como un frontend puede hacer los cálculos de manera local o
 # Desarrollo
 
 Existen 2 carpetas:
-1. La carpeta `empezar-aqui` que es el punto de partida para el alumno, en donde podrá comenzar a hacer la práctica.
-2. La carpeta `terminado` en donde se puede ver los 2 frontend terminados en caso de que se quiera consultar.
+- La carpeta `sin-backend` que contiene el HTML y JS necesarios para hacer la app sumadora sin conectarse al backend
+- La carpeta `con-backend` que contiene el HTML y JS necesarios para hacer la app sumadora conectandose al backend
 
 Cada carpeta contiene la versión del frontend que se comunica con y sin el backend.
 
